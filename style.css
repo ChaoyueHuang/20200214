@@ -1,0 +1,9 @@
+h1 {
+  display: inline-block;
+  /* color: #fff; */
+  color: #0E0E0E;
+  font-family: "Roboto", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 0;
+}
